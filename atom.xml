@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小裴的博客</title>
+  <title></title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -8,11 +8,6 @@
   <link href="http://example.com/"/>
   <updated>2023-11-03T01:53:17.432Z</updated>
   <id>http://example.com/</id>
-  
-  <author>
-    <name>小裴</name>
-    
-  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
